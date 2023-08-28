@@ -30,3 +30,5 @@ Here's a compilation of some particularly valuable resources. Feel free to delve
 - [Discord](https://discord.com/invite/Y7fQNdevV2)
 - [Telegram](https://t.me/Algem_io)
 - [Blog](https://blog.algem.io/)
+
+#### Keep calm & Liquid Stake! 🌊
