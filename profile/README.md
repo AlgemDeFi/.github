@@ -18,6 +18,7 @@ To commence your journey, consider exploring the following repositories:
 - [algem-contracts](https://github.com/AlgemDeFi/algem-contracts) - Core smart contracts of Algem,
 - [audits](https://github.com/AlgemDeFi/audits) - Algem Protocol Audits,
 - [docs](https://github.com/AlgemDeFi/docs) - Algem documentation,
+- [media-kit](https://github.com/AlgemDeFi/media-kit) - Algem brand assets,
 
 ## 🔗 Additional Resources
 
