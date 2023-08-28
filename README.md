@@ -1,6 +1,6 @@
 # Algem Protocol: Liquid Products on Astar Network
 
-![algem meeting](/assets/algem-meeting.jpg)
+![algem team meeting](/assets/algem-team-meeting.jpg)
 
 Welcome to the Algem GitHub 🔨
 
