@@ -1,15 +1,12 @@
-# Algem Protocol: Liquid Products on Astar Network
+# Algem 
 
 ![algem team meeting](/assets/algem-team-meeting.jpg)
 
 Welcome to the Algem GitHub 🔨
 
-The Algem GitHub repository serves as a hub for both Algem users and Astar holders to monitor the progress of the Algem Protocol on the Astar Network. It also provides an avenue for active participation by enabling users to suggest new features, raise issues, or initiate pull requests, thereby contributing to the open-source codebase.
-
 ## 🌊 About Algem
 
-[Algem](https://www.algem.io/) is a decentralized application built on the [Astar Network](https://astar.network/) and offers two main features: Liquid dApp Staking and Liquid Lending. As their names suggest, these two options let ASTR holders keep their assets liquid while putting them to work. Also, the liquid staking and lending solutions let users use Algem’s liquid nASTR tokens across Astar’s Defi ecosystem to earn staking rewards and make more money. 
-In doing so, Algem supports other Defi protocols by providing liquidity and creating a sustainable and cooperative ecosystem on the [Astar Network](https://astar.network/) and [Polkadot](https://www.polkadot.network/).
+[Algem](https://www.algem.io/) is a decentralized application Liqid Darming application. Liquid Farming is a DeFi model that allows users to stay liquid while farming fees on AMMs, continuing the logic of Liquid Staking.
 
 ## 🚀 Getting Started
 
